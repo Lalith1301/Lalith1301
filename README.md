@@ -47,9 +47,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&count_private=true)](https://github.com/[YOUR_USERNAME])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Lalith1301]&show_icons=true&theme=dark&count_private=true)](https://github.com/[Lalith1301])
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark)](https://github.com/[YOUR_USERNAME])
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Lalith1301]&layout=compact&theme=dark)](https://github.com/[Lalith1301])
 
 </div>
 
