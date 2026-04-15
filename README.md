@@ -9,8 +9,6 @@
 💼 Currently working on **Personal Data Analysis Projects**  
 🚀 Always learning and exploring new tools in the data ecosystem
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -32,8 +30,6 @@
 - 🐍 **Programming** - Python, Data Manipulation with Pandas & NumPy
 - 📑 **Spreadsheets** - Advanced Excel, Pivot Tables, Data Modeling
 
----
-
 ##  Social
 
 <!-- Snake Game Repo View -->
@@ -41,7 +37,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -53,7 +48,7 @@
 
 </div>
 
----
+
 
 ## 🚀 What I'm Working On
 
@@ -62,7 +57,6 @@
 - 📈 Creating **interactive Power BI dashboards** for business insights
 - 🐍 Learning **Python data science libraries** and automation
 
----
 
 ## 🎯 Goals
 
@@ -70,8 +64,6 @@
 - ✅ Build **portfolio projects** showcasing real-world data analysis
 - ✅ Contribute to **open-source data projects**
 - ✅ Become a **proficient Data Analyst / Business Analyst**
-
----
 
 ## 📫 Let's Connect!
 
@@ -84,7 +76,6 @@
 
 </div>
 
----
 
 ### ⭐ If you find my projects helpful, don't forget to star them!
 
