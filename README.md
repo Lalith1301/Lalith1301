@@ -34,14 +34,11 @@
 
 ---
 
-## 🎮 Play Snake Game
+##  Social
 
-Click below to play the snake game in your browser!
-
+<!-- Snake Game Repo View -->
 <div align="center">
-
-[![Play Snake Game](https://img.shields.io/badge/🎮%20PLAY%20SNAKE%20GAME-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/[YOUR_USERNAME]/snake-game)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
