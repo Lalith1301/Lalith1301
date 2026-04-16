@@ -4,10 +4,10 @@
 
 ### Data Analyst | Business Analyst | Data Enthusiast
 
-🎓 **Undergraduate** in Electronics and Communication Engineering 
-📊 Passionate about **Data Analysis, Business Intelligence, and Data-Driven Insights**  
-💼 Currently working on **Personal Data Analysis Projects**  
-🚀 Always learning and exploring new tools in the data ecosystem
+- 🎓 **Undergraduate** in Electronics and Communication Engineering 
+- 📊 Passionate about **Data Analysis, Business Intelligence, and Data-Driven Insights**  
+- 💼 Currently working on **Personal Data Analysis Projects**  
+- 🚀 Always learning and exploring new tools in the data ecosystem
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -48,6 +48,7 @@
 
 </div>
 
+-->
 
 
 ## 🚀 What I'm Working On
@@ -65,22 +66,27 @@
 - ✅ Contribute to **open-source data projects**
 - ✅ Become a **proficient Data Analyst / Business Analyst**
 
+## 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+</p>
+
 ## 📫 Let's Connect!
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/lalithkumar23478">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Lalith.legend2734@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_PROFILE])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_HANDLE])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-
-</div>
 
 
-### ⭐ If you find my projects helpful, don't forget to star them!
+#### ⭐ If you find my projects helpful, don't forget to star them!
 
-<div align="center">
 
-Made with ❤️ by [YOUR_NAME]
+##### Made with ❤️ by Aspired Data Analyst
 
-</div>
